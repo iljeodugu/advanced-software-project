@@ -1,0 +1,8 @@
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\SosilHomeWork3\SosilHomeWork3\bin\Release\SosilHomeWork3.exe.config
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\SosilHomeWork3\SosilHomeWork3\bin\Release\SosilHomeWork3.exe
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\SosilHomeWork3\SosilHomeWork3\bin\Release\SosilHomeWork3.pdb
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\SosilHomeWork3\SosilHomeWork3\obj\Release\SosilHomeWork3.Form1.resources
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\SosilHomeWork3\SosilHomeWork3\obj\Release\SosilHomeWork3.Properties.Resources.resources
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\SosilHomeWork3\SosilHomeWork3\obj\Release\SosilHomeWork3.csproj.GenerateResource.Cache
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\SosilHomeWork3\SosilHomeWork3\obj\Release\SosilHomeWork3.exe
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\SosilHomeWork3\SosilHomeWork3\obj\Release\SosilHomeWork3.pdb
