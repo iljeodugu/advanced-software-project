@@ -1,0 +1,4 @@
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Project2_class\Project2_class\obj\Debug\Project2_class.csprojResolveAssemblyReference.cache
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Project2_class\Project2_class\bin\Debug\Project2_class.pdb
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Project2_class\Project2_class\obj\Debug\Project2_class.dll
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Project2_class\Project2_class\obj\Debug\Project2_class.pdb

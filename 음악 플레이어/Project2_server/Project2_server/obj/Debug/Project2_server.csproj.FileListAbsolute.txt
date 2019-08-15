@@ -1,0 +1,11 @@
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Project2_server\Project2_server\bin\Debug\Project2_server.exe
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_server\Project2_server\bin\Debug\Project2_server.exe.config
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_server\Project2_server\obj\Debug\Project2_server.Form1.resources
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_server\Project2_server\obj\Debug\Project2_server.Properties.Resources.resources
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_server\Project2_server\obj\Debug\Project2_server.csproj.GenerateResource.Cache
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_server\Project2_server\obj\Debug\Project2_server.exe
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_server\Project2_server\obj\Debug\Project2_server.pdb
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_server\Project2_server\bin\Debug\Project2_server.pdb
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_server\Project2_server\obj\Debug\Project2_server.csprojResolveAssemblyReference.cache
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_server\Project2_server\bin\Debug\Project2_class.dll
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_server\Project2_server\bin\Debug\Project2_class.pdb

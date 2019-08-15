@@ -1,0 +1,12 @@
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Project2_client\Project2_client\bin\Debug\Project2_client.exe.config
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\bin\Debug\Project2_client.exe
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\bin\Debug\Project2_client.pdb
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\obj\Debug\Project2_client.csprojResolveAssemblyReference.cache
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\obj\Debug\Project2_client.Form1.resources
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\obj\Debug\Project2_client.Form2.resources
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\obj\Debug\Project2_client.Properties.Resources.resources
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\obj\Debug\Project2_client.csproj.GenerateResource.Cache
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\obj\Debug\Project2_client.exe
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\obj\Debug\Project2_client.pdb
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\bin\Debug\Project2_class.dll
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project2_client\Project2_client\bin\Debug\Project2_class.pdb
