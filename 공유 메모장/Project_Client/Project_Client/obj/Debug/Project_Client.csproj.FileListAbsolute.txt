@@ -1,0 +1,15 @@
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\bin\Debug\Project_Client.exe.config
+C:\Users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\bin\Debug\Project_Client.exe
+C:\Users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\bin\Debug\Project_Client.pdb
+C:\Users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\obj\Debug\Project_Client.Properties.Resources.resources
+C:\Users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\obj\Debug\Project_Client.csproj.GenerateResource.Cache
+C:\Users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\obj\Debug\Project_Client.exe
+C:\Users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\obj\Debug\Project_Client.pdb
+C:\Users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\obj\Debug\Project_Client.myTextBox.resources
+C:\Users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\obj\Debug\Project_Client.csprojResolveAssemblyReference.cache
+C:\Users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\bin\Debug\Project_class.dll
+C:\Users\qzecw\onedrive\문서\visual studio 2015\Projects\Project_Client\Project_Client\bin\Debug\Project_class.pdb
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\bin\Debug\MetroFramework.dll
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\obj\Debug\Project_Client.Form1.resources

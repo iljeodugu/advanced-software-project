@@ -1,0 +1,12 @@
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\bin\Release\Project_Client.exe.config
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\bin\Release\Project_Client.exe
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\bin\Release\Project_Client.pdb
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\bin\Release\Project_class.dll
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\bin\Release\Project_class.pdb
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\obj\Release\Project_Client.csprojResolveAssemblyReference.cache
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\obj\Release\Project_Client.Form1.resources
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\obj\Release\Project_Client.myTextBox.resources
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\obj\Release\Project_Client.Properties.Resources.resources
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\obj\Release\Project_Client.csproj.GenerateResource.Cache
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\obj\Release\Project_Client.exe
+C:\Users\qzecw\OneDrive\문서\Visual Studio 2015\Projects\Project_Client\Project_Client\obj\Release\Project_Client.pdb
