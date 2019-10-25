@@ -1,0 +1,12 @@
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Melon2\Melon2\bin\Debug\Melon2.exe.config
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Melon2\Melon2\bin\Debug\Melon2.exe
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Melon2\Melon2\bin\Debug\Melon2.pdb
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Melon2\Melon2\obj\Debug\Melon2.Form1.resources
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Melon2\Melon2\obj\Debug\Melon2.Properties.Resources.resources
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Melon2\Melon2\obj\Debug\Melon2.csproj.GenerateResource.Cache
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Melon2\Melon2\obj\Debug\Melon2.exe
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Melon2\Melon2\obj\Debug\Melon2.pdb
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Melon2\Melon2\obj\Debug\Melon2.csprojResolveAssemblyReference.cache
+c:\users\qzecw\onedrive\문서\visual studio 2015\Projects\Melon2\Melon2\bin\Debug\Packet.dll
+C:\Users\qzecw\OneDrive\문서\visual studio 2015\Projects\Melon2\Melon2\obj\Debug\Interop.WMPLib.dll
+C:\Users\qzecw\OneDrive\문서\visual studio 2015\Projects\Melon2\Melon2\obj\Debug\Melon2.csproj.ResolveComReference.cache
